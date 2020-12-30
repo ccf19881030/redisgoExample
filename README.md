@@ -1,0 +1,2 @@
+# redisgoExample
+基于redisgo的redis客户端简单封装和使用示例
