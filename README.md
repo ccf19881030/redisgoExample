@@ -454,7 +454,6 @@ git clone https://github.com/ccf19881030/redisgoExample.git
 
 ## 参考资料
 - [https://github.com/gomodule/redigo](https://github.com/gomodule/redigo)
-- [](https://godoc.org/github.com/gomodule/redigo/redis#pkg-examples)
 - [API Reference](http://godoc.org/github.com/gomodule/redigo/redis)
 - [FAQ](https://github.com/gomodule/redigo/wiki/FAQ)
 - [Examples](https://godoc.org/github.com/gomodule/redigo/redis#pkg-examples)
